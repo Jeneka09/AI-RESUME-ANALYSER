@@ -1,5 +1,3 @@
-import React from 'react'
-
 import * as pdfjsLib from "pdfjs-dist";
 
 pdfjsLib.GlobalWorkerOptions.workerSrc =
